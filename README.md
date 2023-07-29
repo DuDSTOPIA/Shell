@@ -1,3 +1,3 @@
-# Shell Reverse em python
+# Shell Reverse in python
 
 Just Testing...
